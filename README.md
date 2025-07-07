@@ -1,7 +1,9 @@
 # Web Development Project 4 – *Doggo Information*
 
 Submitted by: **Md Rakibul Hasan**
+
 This web app: **Doggo Discovery! is a React web app that fetches random dog images and displays key breed attributes (breed, weight, origin, lifespan) using TheDogAPI. Its interactive ban list lets users filter out unwanted attribute values, ensuring each “Discover!” click brings only the dogs you want to see.**
+
 Time spent: **5 hours total**
 
 ---
