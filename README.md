@@ -49,7 +49,7 @@ The following **required** functionality is completed:
 
 Here’s a GIF walkthrough showcasing all implemented user stories:
 
-<img src="http://i.imgur.com/link/to/your/gif/file.gif" title="Video Walkthrough" alt="Video Walkthrough" />
+<img src="demo_5.gif" title="Video Walkthrough" alt="Video Walkthrough" />
 
 
 ## License
